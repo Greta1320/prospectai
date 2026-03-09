@@ -1,0 +1,22 @@
+# ─── Python ───
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# ─── Node/Vercel ───
+node_modules/
+.vercel/
+
+# ─── Railway build ───
+.railway/
+
+# ─── DB local ───
+*.db
+*.sqlite
+
+# ─── OS ───
+.DS_Store
+Thumbs.db
